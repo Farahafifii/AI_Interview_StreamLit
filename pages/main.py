@@ -1,13 +1,16 @@
 import streamlit as st
 from openai import OpenAI
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 def chat_page():
     st.write(f'jobTitle: {st.session_state.jobTitle}')
     st.write(f'questionType: {st.session_state.questionType}')
     st.write(f'difficulty: {st.session_state.difficulty}')
     st.write(f'notes: {st.session_state.notes}')
     st.title("Mock Interview")
-    client = OpenAI(api_key ="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")
+    client = OpenAI(api_key =os.getenv("API_KEY"))
 
     if "openai_model" not in st.session_state:
         st.session_state["openai_model"] = 'gpt-3.5-turbo'
