@@ -1,0 +1,362 @@
+[
+{
+      "id": 1,
+      "scenario": "You are a data analyst at a retail company. The company wants to increase sales by offering personalized recommendations to customers. What data would you need to collect and analyze to make this possible?",
+      "options": [
+        "Customer demographics",
+        "Purchase history",
+        "Product reviews",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Collecting and analyzing all of the above data can help you make personalized recommendations to customers."
+    },
+    {
+      "id": 2,
+      "scenario": "You are a data analyst at a healthcare company. The company wants to reduce costs by improving patient outcomes. What metrics would you use to measure patient outcomes?",
+      "options": [
+        "Patient satisfaction",
+        "Length of hospital stay",
+        "Readmission rates",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Measuring all of the above metrics can help you identify areas for improvement in patient outcomes."
+    },
+    {
+      "id": 3,
+      "scenario": "You are a data analyst at a marketing agency. The agency wants to measure the effectiveness of a new advertising campaign. What metrics would you use to evaluate the campaign?",
+      "options": [
+        "Click-through rate",
+        "Conversion rate",
+        "Cost per acquisition",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Measuring all of the above metrics can help you evaluate the effectiveness of the advertising campaign."
+    },
+    {
+      "id": 4,
+      "scenario": "You are a data analyst at a transportation company. The company wants to optimize its delivery routes to reduce costs. What data would you need to collect and analyze to make this possible?",
+      "options": [
+        "Delivery addresses",
+        "Delivery time windows",
+        "Traffic patterns",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Collecting and analyzing all of the above data can help you optimize delivery routes and reduce costs."
+    },
+    {
+      "id": 5,
+      "scenario": "You are a software engineer working on a new web application. The application needs to handle a large amount of traffic and be highly available. What architecture would you recommend?",
+      "options": [
+        "Monolithic",
+        "Microservices",
+        "Serverless",
+        "All of the above"
+      ],
+      "correct_option": 2,
+      "feedback": "Correct! Using a microservices architecture can help you scale the application and improve availability."
+    },
+    {
+      "id": 6,
+      "scenario": "You are a cybersecurity analyst at a financial institution. The institution wants to improve its security posture. What measures would you recommend?",
+      "options": [
+        "Implementing multi-factor authentication",
+        "Encrypting sensitive data",
+        "Performing regular vulnerability assessments",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Implementing all of the above measures can help you improve your security posture."
+    },
+    {
+      "id": 7,
+      "scenario": "You are a data scientist at a social media company. The company wants to improve its recommendation algorithm. What data would you need to collect and analyze to make this possible?",
+      "options": [
+        "User demographics",
+        "User activity",
+        "User preferences",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Collecting and analyzing all of the above data can help you improve the recommendation algorithm."
+    },
+    {
+      "id": 8,
+      "scenario": "You are a software engineer working on a new mobile app. The app needs to be compatible with both iOS and Android devices. What development approach would you recommend?",
+      "options": [
+        "Native",
+        "Hybrid",
+        "Web",
+        "All of the above"
+      ],
+      "correct_option": 2,
+      "feedback": "Correct! Using a hybrid development approach can help you develop the app for both iOS and Android devices."
+    },
+    {
+      "id": 9,
+      "scenario": "You are a data analyst at a travel company. The company wants to improve its pricing strategy. What data would you need to collect and analyze to make this possible?",
+      "options": [
+        "Competitor prices",
+        "Seasonal trends",
+        "Customer demographics",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Collecting and analyzing all of the above data can help you improve the pricing strategy."
+    },
+    {
+      "id": 10,
+      "scenario": "You are a software engineer working on a new e-commerce website. The website needs to handle a large number of transactions and be secure. What technology stack would you recommend?",
+      "options": [
+        "LAMP (Linux, Apache, MySQL, PHP)",
+        "MEAN (MongoDB, Express, Angular, Node.js)",
+        "MERN (MongoDB, Express, React, Node.js)",
+        "All of the above"
+      ],
+      "correct_option": 3,
+      "feedback": "Correct! Using a MERN stack can help you develop a scalable and secure e-commerce website."
+    },
+    {
+      "id": 11,
+      "scenario": "You are a data analyst at a social media company. The company wants to improve its ad targeting. What data would you need to collect and analyze to make this possible?",
+      "options": [
+        "User demographics",
+        "User interests",
+        "User behavior",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Collecting and analyzing all of the above data can help you improve ad targeting."
+    },
+    {
+      "id": 12,
+      "scenario": "You are a software engineer working on a new chat application. The application needs to support real-time messaging and be highly scalable. What technology would you recommend?",
+      "options": [
+        "WebSockets",
+        "Long polling",
+        "Server-sent events",
+        "All of the above"
+      ],
+      "correct_option": 1,
+      "feedback": "Correct! Using WebSockets can help you support real-time messaging and improve scalability."
+    },
+    {
+      "id": 13,
+      "scenario": "You are a data analyst at a financial institution. The institution wants to detect fraudulent transactions. What data would you need to collect and analyze to make this possible?",
+      "options": [
+        "Transaction history",
+        "User behavior",
+        "Geolocation data",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Collecting and analyzing all of the above data can help you detect fraudulent transactions."
+    },
+    {
+      "id": 14,
+      "scenario": "You are a software engineer working on a new video streaming service. The service needs to support high-quality video and be highly available. What technology would you recommend?",
+      "options": [
+        "HTTP Live Streaming (HLS)",
+        "Dynamic Adaptive Streaming over HTTP (DASH)",
+        "Real-Time Messaging Protocol (RTMP)",
+        "All of the above"
+      ],
+      "correct_option": 2,
+      "feedback": "Correct! Using DASH can help you support high-quality video and improve availability."
+    },
+    {
+      "id": 15,
+      "scenario": "You are a cybersecurity analyst at a government agency. The agency wants to improve its incident response plan. What measures would you recommend?",
+      "options": [
+        "Creating an incident response team",
+        "Developing an incident response plan",
+        "Conducting regular training exercises",
+        "All of the above"
+      ],
+      "correct_option": 4,
+      "feedback": "Correct! Implementing all of the above measures can help you improve your incident response plan."
+    },
+    {
+        "id": 16,
+        "scenario": "You are a data analyst at a sports its fan engagement. What data would you need to collect and analyze to make this possible?",
+        "options": [
+          "Social media engagement",
+          "Ticket sales",
+          "Merchandise sales",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Collecting and analyzing all of the above data can help you improve fan engagement."
+      },
+      {
+        "id": 17,
+        "scenario": "You are a software engineer working on a new game. The game needs to support multiplayer functionality and be highly responsive. What technology would you recommend?",
+        "options": [
+          "TCP/IP",
+          "UDP",
+          "WebRTC",
+          "All of the above"
+        ],
+        "correct_option": 3,
+        "feedback": "Correct! Using WebRTC can help you support multiplayer functionality and improve responsiveness."
+      },
+      {
+        "id": 18,
+        "scenario": "You are a data analyst at a real estate company. The company wants to improve its property valuation model. What data would you need to collect and analyze to make this possible?",
+        "options": [
+          "Property characteristics",
+          "Location data",
+          "Market trends",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Collecting and analyzing all of the above data can help you improve the property valuation model."
+      },
+      {
+        "id": 19,
+        "scenario": "You are a software engineer working on a new mobile game. The game needs to be highly interactive and support real-time updates. What technology would you recommend?",
+        "options": [
+          "RESTful API",
+          "GraphQL",
+          "WebSocket",
+          "All of the above"
+        ],
+        "correct_option": 3,
+        "feedback": "Correct! Using WebSocket can help you support real-time updates and improve interactivity."
+      },
+      {
+        "id": 20,
+        "scenario": "You are a cybersecurity analyst at a technology company. The company wants to improve its network security. What measures would you recommend?",
+        "options": [
+          "Implementing a firewall",
+          "Using intrusion detection and prevention systems",
+          "Performing regular security audits",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Implementing all of the above measures can help you improve network security."
+      },
+      {
+        "id": 21,
+        "scenario": "You are a data analyst at a music streaming company. The company wants to improve its recommendation algorithm. What data would you need to collect and analyze to make this possible?",
+        "options": [
+          "User listening history",
+          "User preferences",
+          "Song characteristics",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Collecting and analyzing all of the above data can help you improve the recommendation algorithm."
+      },
+      {
+        "id": 22,
+        "scenario": "You are a software engineer working on a new social media platform. The platform needs to support real-time updates and be highly scalable. What technology would you recommend?",
+        "options": [
+          "WebSockets",
+          "Server-sent events",
+          "Long polling",
+          "All of the above"
+        ],
+        "correct_option": 1,
+        "feedback": "Correct! Using WebSockets can help you support real-time updates and improve scalability."
+      },
+      {
+        "id": 23,
+        "scenario": "You are a data analyst at a food delivery company. The company wants to optimize its delivery times. What data would you need to collect and analyze to make this possible?",
+        "options": [
+          "Delivery addresses",
+          "Traffic patterns",
+          "Weather data",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Collecting and analyzing all of the above data can help you optimize delivery times."
+      },
+      {
+        "id": 24,
+        "scenario": "You are a software engineer working on a new financial application. The application needs to be highly secure and support multiple users. What architecture would you recommend?",
+        "options": [
+          "Client-server",
+          "Peer-to-peer",
+          "Distributed",
+          "All of the above"
+        ],
+        "correct_option": 1,
+        "feedback": "Correct! Using a client-server architecture can help you improve security and support multiple users."
+      },
+      {
+        "id": 25,
+        "scenario": "You are a cybersecurity analyst at a healthcare company. The company wants to improve its compliance with HIPAA regulations. What measures would you recommend?",
+        "options": [
+          "Encrypting patient data",
+          "Implementing access controls",
+          "Performing regular security assessments",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Implementing all of the above measures can help you improve compliance with HIPAA regulations."
+      },
+      {
+        "id": 26,
+        "scenario": "As an interviewee, you are asked to provide an example of a challenging situation you faced in a team project. How would you handle it?",
+        "options": [
+          "Clearly communicate with team members",
+          "Collaborate to find a solution",
+          "Seek guidance from a supervisor",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Handling challenging situations in a team project often involves effective communication, collaboration, and seeking guidance when needed."
+      },
+      {
+        "id": 27,
+        "scenario": "As a job candidate, you need to explain a complex technical concept to a non-technical stakeholder. How would you approach this communication?",
+        "options": [
+          "Use simple and clear language",
+          "Provide relatable examples",
+          "Avoid technical jargon",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Explaining technical concepts to non-technical stakeholders requires using simple language, providing relatable examples, and avoiding unnecessary jargon."
+      },
+      {
+        "id": 28,
+        "scenario": "As a job candidate, you are asked to provide an example of a time when you had to learn a new skill. How would you approach this learning process?",
+        "options": [
+          "Set clear goals",
+          "Break down complex tasks into smaller ones",
+          "Seek feedback from others",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Learning a new skill often involves setting clear goals, breaking down complex tasks into smaller ones, and seeking feedback from others."
+      },
+      {
+        "id": 29,
+        "scenario": "As a job candidate, you are asked to provide an example of a time when you had to work under pressure. How would you handle this situation?",
+        "options": [
+          "Prioritize tasks",
+          "Focus on the most important tasks",
+          "Ask for help when needed",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Working under pressure often involves prioritizing tasks, focusing on the most important tasks, and asking for help when needed."
+      },
+      {
+        "id": 30,
+        "scenario": "As a job candidate, you are asked to provide an example of a time when you had to work with a difficult team member. How would you handle this situation?",
+        "options": [
+          "Listen to the team member's concerns",
+          "Try to understand the team member's perspective",
+          "Find common ground",
+          "All of the above"
+        ],
+        "correct_option": 4,
+        "feedback": "Correct! Working with a difficult team member often involves listening to their concerns, trying to understand their perspective, and finding common ground."
+      }
+    ]
