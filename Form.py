@@ -1,6 +1,21 @@
 import streamlit as st
 from streamlit.components.v1 import html
 
+
+st.set_page_config(initial_sidebar_state="collapsed")
+
+st.markdown(
+    """
+<style>
+    [data-testid="collapsedControl"] {
+        display: none
+    }
+</style>
+""",
+    unsafe_allow_html=True,
+)
+
+
 def nav_page(page_name, timeout_secs=3):
     nav_script = """
         <script type="text/javascript">
@@ -29,11 +44,11 @@ def main():
     st.title('Interview Warmup')
     st.markdown('Prepare yourself for success.')
 
-    job_title = st.radio("What is your Job Title", ("Data Analyst", "Cyber Security Analyst", "Networks Engineer"))
+    job_title = st.radio("What is your Job Title", ("Data Analyst", "Cyber Security Analyst", "Networks Engineer", "Software Engineer"))
     question_types = st.multiselect("Type of Questions",
                                     ["Technical Questions", "Behavioural Questions", "Scenario Questions"])
     difficulty = st.radio("Level of Difficulty for Questions", ("Beginner", "Intermediate", "Challenging"))
-    notes = st.text_area("Other Notes", max_chars=100)
+    # notes = st.text_area("Other Notes", max_chars=100)
 
     # Add some spacing and organize widgets into columns
     col1, col2 = st.columns([1, 2])
@@ -45,7 +60,7 @@ def main():
             st.session_state['jobTitle'] = job_title
             st.session_state['questionType'] = question_types
             st.session_state['difficulty'] = difficulty
-            st.session_state['notes'] = notes
+            # st.session_state['notes'] = notes
             nav_page("main")
 
 
