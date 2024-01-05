@@ -16,7 +16,7 @@ As part of the RadicalX internship, this project aims to provide a convenient an
 
 ## Features
 
-- **Multi-disciplinary Support:** Tailored for Network Engineers, Data Scientists, and Cybersecurity Engineers.
+- **Multi-disciplinary Support:** Tailored for Network Engineers, Data Scientists, and Cybersecurity Engineers and you can choose to be interviewed on Behavioral , Scenario or Technical Questions.
 - **OpenAI Integration:** Utilizes the OpenAI API for natural language processing and conversation simulation.
 - **Interactive Chat Interface:** Users can engage in interview-like conversations to practice responses.
 
