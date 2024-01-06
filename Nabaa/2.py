@@ -5,7 +5,7 @@ import sniffio
 
 st.title("streamlit 101")
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 if "openai_model" not in st.session_state:
     st.session_state['openai_model'] = 'gpt-3.5-turbo'
